@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JASL", "JASL.csproj", "{B883E6A4-BEF3-45B6-896B-3659A3FC999F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B883E6A4-BEF3-45B6-896B-3659A3FC999F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B883E6A4-BEF3-45B6-896B-3659A3FC999F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B883E6A4-BEF3-45B6-896B-3659A3FC999F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B883E6A4-BEF3-45B6-896B-3659A3FC999F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6B47B75-DC1E-4A6D-B0FA-45E55398F05C}
+	EndGlobalSection
+EndGlobal
